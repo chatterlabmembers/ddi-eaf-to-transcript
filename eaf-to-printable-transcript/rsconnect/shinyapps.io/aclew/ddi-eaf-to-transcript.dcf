@@ -1,0 +1,12 @@
+name: ddi-eaf-to-transcript
+title: ddi-eaf-to-transcript
+username: aclew
+account: aclew
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12380022
+bundleId: 8920450
+url: https://aclew.shinyapps.io/ddi-eaf-to-transcript/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
